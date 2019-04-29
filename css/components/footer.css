@@ -1,0 +1,24 @@
+.footer {
+  background: #2B2A2A;
+  text-align: center;
+}
+
+.links {
+  padding: 100px 0;
+}
+
+.links > ul > li {
+  color: #1EDD89;
+  margin: 5px;
+  font-size: 30px;
+}
+
+.links p {
+  color: #6B6C6C;
+}
+
+.links ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
